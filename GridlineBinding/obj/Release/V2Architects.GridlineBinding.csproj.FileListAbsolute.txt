@@ -1,0 +1,13 @@
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\bin\Release\GridlineBinding.dll
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\bin\Release\GridlineBinding.pdb
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\V2Architects.GridlineBinding.csproj.AssemblyReference.cache
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\Views\ReportWindow.g.cs
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\GridlineBinding_MarkupCompile.cache
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\GridlineBinding_MarkupCompile.lref
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\Views\ReportWindow.baml
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\GridlineBinding.g.resources
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\GridlineBinding.Properties.Resources.resources
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\V2Architects.GridlineBinding.csproj.GenerateResource.cache
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\V2Architects.GridlineBinding.csproj.CoreCompileInputs.cache
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\GridlineBinding.dll
+E:\__Programs\V2Architects.GridlineBinding\V2Architects.GridlineBinding\obj\Release\GridlineBinding.pdb

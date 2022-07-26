@@ -1,0 +1,13 @@
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\bin\Debug\GridlineBinding.dll
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\bin\Debug\GridlineBinding.pdb
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding.csproj.AssemblyReference.cache
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\Views\ReportWindow.g.cs
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding_MarkupCompile.cache
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding_MarkupCompile.lref
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\Views\ReportWindow.baml
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding.g.resources
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding.Properties.Resources.resources
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding.csproj.GenerateResource.cache
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding.csproj.CoreCompileInputs.cache
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding.dll
+E:\Работа_Revit\RVGridlineBinding\GridlineBinding\obj\Debug\GridlineBinding.pdb

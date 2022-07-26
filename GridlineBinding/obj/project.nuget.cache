@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5M8badiR4yvL9N64iFR2v5P02cNYsEYJGdV+jhXYlatt5pNYV+vgUB7kD5/chlgVEezbnggzNkFxref2xF9t1A==",
+  "success": true,
+  "projectFilePath": "E:\\Работа_Revit\\RVGridlineBinding\\GridlineBinding\\GridlineBinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agens\\.nuget\\packages\\autodesk.revit.sdk\\2022.0.2.392\\autodesk.revit.sdk.2022.0.2.392.nupkg.sha512"
+  ],
+  "logs": []
+}

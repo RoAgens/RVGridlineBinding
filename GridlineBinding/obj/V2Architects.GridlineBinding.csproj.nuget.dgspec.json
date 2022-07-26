@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\__Programs\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding.csproj": {}
+  },
+  "projects": {
+    "E:\\__Programs\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\__Programs\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding.csproj",
+        "projectName": "V2Architects.GridlineBinding",
+        "projectPath": "E:\\__Programs\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding.csproj",
+        "packagesPath": "C:\\Users\\Agens\\.nuget\\packages\\",
+        "outputPath": "E:\\__Programs\\V2Architects.GridlineBinding\\V2Architects.GridlineBinding\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Agens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Autodesk.Revit.SDK": {
+              "target": "Package",
+              "version": "[2022.0.2.392, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
